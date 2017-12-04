@@ -1,0 +1,5 @@
+userweb    用户web端
+bweb 	   商家前端web
+bgweb	   商家后台web
+mweb	   管理后台web
+eweb 	   快递web
